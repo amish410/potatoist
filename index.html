@@ -11,19 +11,26 @@
 
 
     <body>
-        <!-- Add HTML markup elements for your web site below -->
-        <h1 style="text-align: center;">Welcome to Potatoist!</h1>
-        <p style="text-align: center;">This website has all the information on potatoes you'll ever need incluidng fun facts, recipies, and more!</p>
-        <h2 style="text-align: center;">Try it out!</h2>
-        <br></br>
-        <div style="display: flex;"">
-            <img src="images/potato1.png" alt="potato1" class="rounded-image">
-            <button style=" padding: 5px 12px; align-self: flex-start; font-size: 18px;">Learn More</button>
-            <p style="display: flex; align-self:center; padding-bottom: 100px;">This is the most common potato, it can be found anywhere in the world!</p>
-            <p style="display: flex; align-self: self-end; padding-left: 10px;">Some common recipies are mashed potatoes and more!</p>
+        <div style="display: grid; align-items: center;">
+            <h1 style="text-align: center;">Welcome to Potatoist!</h1>
+            <p style="text-align: center;">This website has all the information on potatoes you'll ever need incluidng fun facts, recipies, and more!</p>
+            <h3 style="text-align: center;">Try it out!</h3>
+            <br>
+        </div>
+
+        <div style="padding: 20px; display: flex; justify-content: center;">
+            <img src="images/potato1.png" alt="potato1" class="rounded-image" style="width: 350px; height: auto; padding-left: 100px;">
+        </div>
+
+        <div style="display: grid; grid-template-columns: auto auto; gap: 15px; align-items: center; padding: 20px;">
+            <button style="padding: 8px 16px; font-size: 16px; height: 50px; width: 200px; margin-inline: auto;">Learn More</button>
+            <button style=" padding: 8px 16px; font-size: 16px; height: 50px; width: 200px; margin-inline: auto">Find some recipies</button>
+            
+            <p style="margin-inline: auto;">Some common recipies are mashed potatoes and more!</p>
+            <p style="margin-inline: auto;">This is the most common potato, it can be found anywhere in the world!</p>
         </div>    
     </body>
-    <footer>
+    <footer style="display: grid; justify-content: center;">
         <p>Made by: amish 🗿</p>
     </footer>
 </html>
