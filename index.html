@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Project Title</title>
-   	   <link rel="stylesheet" href="styles.css" type=”text/css”/>
+   	   <link rel="stylesheet" href="style.css" type="text/css"/>
         <link rel="icon" href="" type="image/x-icon" />
         <script type="text/javascript" src="script.js"></script>
     </head>
@@ -12,19 +12,20 @@
 
     <body>
         <div style="display: grid; align-items: center;">
-            <h1 style="text-align: center;">Welcome to Potatoist!</h1>
+            <h1 style="text-align: center; margin-bottom: 0px;">Welcome to Potatoist!</h1>
             <p style="text-align: center;">This website has all the information on potatoes you'll ever need incluidng fun facts, recipies, and more!</p>
-            <h3 style="text-align: center;">Try it out!</h3>
+            <h3 style="text-align: center; margin-top: 75px;">Try it out! Click on the image below to find a random type of potato</h3>
             <br>
         </div>
 
-        <div style="padding: 20px; display: flex; justify-content: center;">
-            <img src="images/potato1.png" alt="potato1" class="rounded-image" style="width: 350px; height: auto; padding-left: 100px;">
+        <div style="display: flex; justify-content: center;" class="interactive-box" onclick="randompotato()">
+            <img id="mainPotato" src="images/startpotato.png" alt="startpotato" class="rounded-image image-box">
         </div>
+        <h2 id="potatoName" style="display: flex; justify-content: center;"></h2>
 
         <div style="display: grid; grid-template-columns: auto auto; gap: 15px; align-items: center; padding: 20px;">
-            <button style="padding: 8px 16px; font-size: 16px; height: 50px; width: 200px; margin-inline: auto;">Learn More</button>
-            <button style=" padding: 8px 16px; font-size: 16px; height: 50px; width: 200px; margin-inline: auto">Find some recipies</button>
+            <button class="button">Learn More</button>
+            <button class="button">Find some recipies</button>
             
             <p style="margin-inline: auto;">Some common recipies are mashed potatoes and more!</p>
             <p style="margin-inline: auto;">This is the most common potato, it can be found anywhere in the world!</p>

@@ -1,0 +1,1236 @@
+[
+    {
+        "name": "Russet Burbank",
+        "type": "Starchy",
+        "origin": "Netherlands",
+        "description": "Russet Burbank is a starchy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "boiling"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Russet+Burbank",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Yukon Gold",
+        "type": "Waxy",
+        "origin": "Canada",
+        "description": "Yukon Gold is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Yukon+Gold",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Red Pontiac",
+        "type": "Waxy",
+        "origin": "India",
+        "description": "Red Pontiac is a waxy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Red+Pontiac",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Kennebec",
+        "type": "Waxy",
+        "origin": "Peru",
+        "description": "Kennebec is a waxy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Kennebec",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Fingerling",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Fingerling is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "boiling",
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Fingerling",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Purple Majesty",
+        "type": "All-purpose",
+        "origin": "United States",
+        "description": "Purple Majesty is a all-purpose potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "boiling",
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Purple+Majesty",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Adirondack Blue",
+        "type": "Waxy",
+        "origin": "India",
+        "description": "Adirondack Blue is a waxy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Adirondack+Blue",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "German Butterball",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "German Butterball is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=German+Butterball",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "La Ratte",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "La Ratte is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "roasting",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=La+Ratte",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Desiree",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Desiree is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Desiree",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Maris Piper",
+        "type": "All-purpose",
+        "origin": "UK",
+        "description": "Maris Piper is a all-purpose potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "roasting",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Maris+Piper",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Charlotte",
+        "type": "Starchy",
+        "origin": "Canada",
+        "description": "Charlotte is a starchy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Charlotte",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "King Edward",
+        "type": "Waxy",
+        "origin": "United States",
+        "description": "King Edward is a waxy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=King+Edward",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Norland",
+        "type": "All-purpose",
+        "origin": "United States",
+        "description": "Norland is a all-purpose potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "mashing",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Norland",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "All Blue",
+        "type": "Starchy",
+        "origin": "India",
+        "description": "All Blue is a starchy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=All+Blue",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Russian Banana",
+        "type": "Waxy",
+        "origin": "India",
+        "description": "Russian Banana is a waxy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Russian+Banana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "White Rose",
+        "type": "All-purpose",
+        "origin": "Canada",
+        "description": "White Rose is a all-purpose potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "boiling",
+            "roasting",
+            "mashing"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=White+Rose",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Purple Peruvian",
+        "type": "Waxy",
+        "origin": "India",
+        "description": "Purple Peruvian is a waxy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Purple+Peruvian",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Jersey Royal",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "Jersey Royal is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Jersey+Royal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Vivaldi",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Vivaldi is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "frying",
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Vivaldi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Dutch Cream",
+        "type": "All-purpose",
+        "origin": "Germany",
+        "description": "Dutch Cream is a all-purpose potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "boiling"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Dutch+Cream",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Rose Finn Apple",
+        "type": "All-purpose",
+        "origin": "Canada",
+        "description": "Rose Finn Apple is a all-purpose potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Rose+Finn+Apple",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Caribe",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Caribe is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "frying",
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Caribe",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Irish Cobbler",
+        "type": "All-purpose",
+        "origin": "Peru",
+        "description": "Irish Cobbler is a all-purpose potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Irish+Cobbler",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Red Bliss",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Red Bliss is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "frying",
+            "baking",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Red+Bliss",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Nicola",
+        "type": "All-purpose",
+        "origin": "Peru",
+        "description": "Nicola is a all-purpose potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Nicola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Blue Belle",
+        "type": "Waxy",
+        "origin": "Russia",
+        "description": "Blue Belle is a waxy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Blue+Belle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Inca Gold",
+        "type": "Waxy",
+        "origin": "Germany",
+        "description": "Inca Gold is a waxy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Inca+Gold",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Bintje",
+        "type": "Waxy",
+        "origin": "Germany",
+        "description": "Bintje is a waxy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Bintje",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Salad Blue",
+        "type": "Waxy",
+        "origin": "Canada",
+        "description": "Salad Blue is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Salad+Blue",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Annabelle",
+        "type": "All-purpose",
+        "origin": "India",
+        "description": "Annabelle is a all-purpose potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Annabelle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Belle de Fontenay",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "Belle de Fontenay is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Belle+de+Fontenay",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Pink Fir Apple",
+        "type": "Starchy",
+        "origin": "Germany",
+        "description": "Pink Fir Apple is a starchy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Pink+Fir+Apple",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Shetland Black",
+        "type": "Starchy",
+        "origin": "Germany",
+        "description": "Shetland Black is a starchy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "mashing",
+            "boiling"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Shetland+Black",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Highland Burgundy Red",
+        "type": "Waxy",
+        "origin": "Canada",
+        "description": "Highland Burgundy Red is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "frying",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Highland+Burgundy+Red",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Up-to-Date",
+        "type": "Waxy",
+        "origin": "United States",
+        "description": "Up-to-Date is a waxy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Up-to-Date",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Pentland Dell",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Pentland Dell is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Pentland+Dell",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Rocket",
+        "type": "Waxy",
+        "origin": "United States",
+        "description": "Rocket is a waxy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Rocket",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Arran Victory",
+        "type": "Waxy",
+        "origin": "Peru",
+        "description": "Arran Victory is a waxy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Arran+Victory",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Valfi",
+        "type": "Starchy",
+        "origin": "Canada",
+        "description": "Valfi is a starchy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Valfi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Lady Balfour",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Lady Balfour is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Lady+Balfour",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Milva",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "Milva is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Milva",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Mozart",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "Mozart is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Mozart",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Timo",
+        "type": "All-purpose",
+        "origin": "India",
+        "description": "Timo is a all-purpose potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Timo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Rosabelle",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Rosabelle is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking",
+            "frying",
+            "boiling"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Rosabelle",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Erika",
+        "type": "Starchy",
+        "origin": "Netherlands",
+        "description": "Erika is a starchy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Erika",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Lily Rose",
+        "type": "Starchy",
+        "origin": "India",
+        "description": "Lily Rose is a starchy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Lily+Rose",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Vitabella",
+        "type": "Starchy",
+        "origin": "India",
+        "description": "Vitabella is a starchy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Vitabella",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Elfe",
+        "type": "Starchy",
+        "origin": "Russia",
+        "description": "Elfe is a starchy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Elfe",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Franceline",
+        "type": "Waxy",
+        "origin": "Canada",
+        "description": "Franceline is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Franceline",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Manon",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Manon is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Manon",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Charlotte Rose",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "Charlotte Rose is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Charlotte+Rose",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Colleen",
+        "type": "Starchy",
+        "origin": "Peru",
+        "description": "Colleen is a starchy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Colleen",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Harmony",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Harmony is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "mashing",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Harmony",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Ratte",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "Ratte is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "boiling",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Ratte",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Amandine",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Amandine is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Amandine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Albert Bartlett",
+        "type": "Starchy",
+        "origin": "Peru",
+        "description": "Albert Bartlett is a starchy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Albert+Bartlett",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Marabel",
+        "type": "Starchy",
+        "origin": "Russia",
+        "description": "Marabel is a starchy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Marabel",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Orla",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "Orla is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "roasting",
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Orla",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Nadine",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Nadine is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Nadine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Rooster",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Rooster is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Rooster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Slaney",
+        "type": "Waxy",
+        "origin": "Peru",
+        "description": "Slaney is a waxy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "baking",
+            "boiling",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Slaney",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Satina",
+        "type": "Starchy",
+        "origin": "UK",
+        "description": "Satina is a starchy potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Satina",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Avalanche",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Avalanche is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying",
+            "boiling",
+            "mashing"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Avalanche",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Kenai",
+        "type": "Starchy",
+        "origin": "India",
+        "description": "Kenai is a starchy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Kenai",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Chieftain",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Chieftain is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Chieftain",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Superior",
+        "type": "All-purpose",
+        "origin": "India",
+        "description": "Superior is a all-purpose potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting",
+            "frying",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Superior",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Cascade",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Cascade is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Cascade",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Denali",
+        "type": "Waxy",
+        "origin": "Russia",
+        "description": "Denali is a waxy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "roasting",
+            "frying",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Denali",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Goldrush",
+        "type": "Waxy",
+        "origin": "Russia",
+        "description": "Goldrush is a waxy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Goldrush",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Red LaSoda",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Red LaSoda is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "boiling",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Red+LaSoda",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Rio Grande",
+        "type": "All-purpose",
+        "origin": "United States",
+        "description": "Rio Grande is a all-purpose potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Rio+Grande",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Russet Norkotah",
+        "type": "All-purpose",
+        "origin": "United States",
+        "description": "Russet Norkotah is a all-purpose potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "roasting",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Russet+Norkotah",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Alturas",
+        "type": "Starchy",
+        "origin": "Germany",
+        "description": "Alturas is a starchy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "roasting",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Alturas",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Shepody",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Shepody is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "roasting",
+            "baking",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Shepody",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Sangre",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Sangre is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Sangre",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Dakota Pearl",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "Dakota Pearl is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "frying"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Dakota+Pearl",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Norwis",
+        "type": "Waxy",
+        "origin": "Russia",
+        "description": "Norwis is a waxy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Norwis",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Atlantic",
+        "type": "All-purpose",
+        "origin": "Canada",
+        "description": "Atlantic is a all-purpose potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "frying",
+            "boiling",
+            "mashing"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Atlantic",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Pioneer Russet",
+        "type": "Waxy",
+        "origin": "Russia",
+        "description": "Pioneer Russet is a waxy potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "mashing",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Pioneer+Russet",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Premier Russet",
+        "type": "Waxy",
+        "origin": "Netherlands",
+        "description": "Premier Russet is a waxy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Premier+Russet",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Clearwater Russet",
+        "type": "Starchy",
+        "origin": "United States",
+        "description": "Clearwater Russet is a starchy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "boiling",
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Clearwater+Russet",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Granola",
+        "type": "Waxy",
+        "origin": "Germany",
+        "description": "Granola is a waxy potato from Germany. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Granola",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Harmony",
+        "type": "All-purpose",
+        "origin": "India",
+        "description": "Harmony is a all-purpose potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "frying"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Harmony",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Lady Christl",
+        "type": "All-purpose",
+        "origin": "Canada",
+        "description": "Lady Christl is a all-purpose potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "frying",
+            "baking"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Lady+Christl",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Melody",
+        "type": "Waxy",
+        "origin": "India",
+        "description": "Melody is a waxy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "boiling",
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Melody",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Penta",
+        "type": "All-purpose",
+        "origin": "UK",
+        "description": "Penta is a all-purpose potato from UK. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "mashing",
+            "boiling",
+            "frying"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Penta",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Yukon_Gold_potatoes.jpg"
+    },
+    {
+        "name": "Sarpo Mira",
+        "type": "Starchy",
+        "origin": "India",
+        "description": "Sarpo Mira is a starchy potato from India. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "baking",
+            "mashing",
+            "frying",
+            "boiling"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Sarpo+Mira",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Sifra",
+        "type": "Waxy",
+        "origin": "United States",
+        "description": "Sifra is a waxy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "mashing",
+            "frying",
+            "roasting"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Sifra",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Red_potato.jpg"
+    },
+    {
+        "name": "Stemster",
+        "type": "All-purpose",
+        "origin": "Netherlands",
+        "description": "Stemster is a all-purpose potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting",
+            "mashing",
+            "boiling"
+        ],
+        "recipe_url": "https://www.allrecipes.com/search?q=Stemster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Toluca",
+        "type": "Starchy",
+        "origin": "Netherlands",
+        "description": "Toluca is a starchy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Toluca",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Purple_Potato.jpg"
+    },
+    {
+        "name": "Twinner",
+        "type": "Waxy",
+        "origin": "United States",
+        "description": "Twinner is a waxy potato from United States. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "boiling"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Twinner",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Verdi",
+        "type": "Starchy",
+        "origin": "Peru",
+        "description": "Verdi is a starchy potato from Peru. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "baking",
+            "roasting"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Verdi",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    },
+    {
+        "name": "Victoria",
+        "type": "All-purpose",
+        "origin": "Russia",
+        "description": "Victoria is a all-purpose potato from Russia. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "frying",
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Victoria",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Fingerling_potatoes.jpg"
+    },
+    {
+        "name": "Zorba",
+        "type": "Starchy",
+        "origin": "Canada",
+        "description": "Zorba is a starchy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Zorba",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russet_potato.jpg"
+    }
+]

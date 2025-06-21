@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Russet Burbank",
+        "type": "Starchy",
+        "origin": "Netherlands",
+        "description": "Russet Burbank is a starchy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "baking",
+            "boiling"
+        ],
+        "recipe_url": "https://www.bbcgoodfood.com/search?q=Russet+Burbank",
+        "image_url": "images/russet_burbank.webp"
+    },
+    {
+        "name": "Yukon Gold",
+        "type": "Waxy",
+        "origin": "Canada",
+        "description": "Yukon Gold is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
+        "uses": [
+            "roasting",
+            "mashing"
+        ],
+        "recipe_url": "https://idahopotato.com/recipes?search=Yukon+Gold",
+        "image_url": "images/yukon gold.jpg"
+    },
+    {
+        "name": "Fingerling",
+        "type": "Waxy",
+        "origin": "Peru",
+        "description": "Fingerling potatoes are small, waxy, and have a buttery flavor. They are great for roasting or boiling.",
+        "uses": [
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://www.bonappetit.com/recipes/slideshow/fingerling-potatoes",
+        "image_url": "images/fingerling.jpg"
+  },
+  {
+        "name": "Red Pontiac",
+        "type": "Waxy",
+        "origin": "USA",
+        "description": "Red Pontiac potatoes have red skin and white flesh. They hold shape well and are good for salads and boiling.",
+        "uses": [
+            "boiling",
+            "salads"
+        ],
+        "recipe_url": "https://www.potatogoodness.com/varieties/red-pontiac/",
+        "image_url": "images/red pontiac.jpg"
+  },
+  {
+        "name": "Kennebec",
+        "type": "All-purpose",
+        "origin": "USA",
+        "description": "Kennebec potatoes are versatile with white flesh and smooth skin, great for frying and baking.",
+        "uses": [
+            "frying",
+            "baking"
+        ],
+        "recipe_url": "https://www.potatogoodness.com/varieties/kennebec/",
+        "image_url": "images/kennebec.webp"
+  },
+  {
+        "name": "German Blue",
+        "type": "Waxy",
+        "origin": "Germany",
+        "description": "German Blue potatoes have blue skin and flesh, with a slightly nutty flavor. Good for salads and roasting.",
+        "uses": [
+            "salads",
+            "roasting"
+        ],
+        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/german-blue",
+        "image_url": "images/germanblue.jpg"
+  },
+  {
+        "name": "French Marquette",
+        "type": "Waxy",
+        "origin": "France",
+        "description": "French Marquette potatoes have red skin and yellow flesh, known for their creamy texture.",
+        "uses": [
+            "mashing",
+            "roasting"
+        ],
+        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/french-marquette",
+        "image_url": "images/frenchmarquette.webp"
+  },
+  {
+        "name": "Red La Soda",
+        "type": "Waxy",
+        "origin": "USA",
+        "description": "Red La Soda potatoes have red skin with white flesh, commonly used for boiling and salads.",
+        "uses": [
+            "boiling",
+            "salads"
+        ],
+        "recipe_url": "https://www.potatogoodness.com/varieties/red-la-soda/",
+        "image_url": "images/redlasoda.jpg"
+  },
+  {
+        "name": "Carola",
+        "type": "All-purpose",
+        "origin": "Germany",
+        "description": "Carola potatoes have yellow flesh and are versatile in cooking, good for boiling and baking.",
+        "uses": [
+            "boiling",
+            "baking"
+        ],
+        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/carola",
+        "image_url": "images/carola.webp"
+  },
+  {
+        "name": "Purple Peruvian",
+        "type": "Waxy",
+        "origin": "Peru",
+        "description": "Purple Peruvian potatoes have purple skin and flesh, known for their vibrant color and firm texture.",
+        "uses": [
+            "roasting",
+            "boiling"
+        ],
+        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/purple-peruvian",
+        "image_url": "images/purpleperuvian.jpg"
+  }
+]
