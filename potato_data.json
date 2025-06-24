@@ -1,123 +1,377 @@
 [
+  {
+    "name": "Russet Burbank",
+    "image_url": "images/russet_burbank.webp",
+    "fun_fact": "The Russet Burbank potato was originally bred to resist potato blight, a disease that caused the Irish Potato Famine.",
+    "recipes": [
+      {
+        "name": "Crispy Skin Russets",
+        "description": "A dish that celebrates the thick skin of Russet potatoes, baked and rubbed with sea salt and olive oil to create a crunchy snack."
+      },
+      {
+        "name": "Rustic Russet Mash",
+        "description": "A hearty mashed potato dish with skins left on, seasoned with cracked pepper and herbs for a farm-style taste."
+      }
+    ]
+  },
+  {
+    "name": "Yukon Gold",
+    "image_url": "images/yukon gold.jpg",
+    "fun_fact": "Yukon Gold potatoes were developed in Canada and are named after the Yukon River and their golden flesh.",
+    "recipes": [
+      {
+        "name": "Golden Herb Medley",
+        "description": "Sautéed Yukon Golds with rosemary, thyme, and garlic — perfect as a golden side to any entrée."
+      },
+      {
+        "name": "Yukon Potato Cakes",
+        "description": "Pan-fried cakes made from mashed Yukon Golds mixed with green onions and cheese."
+      }
+    ]
+  },
+  {
+    "name": "Red Pontiac",
+    "image_url": "images/red pontiac.jpg",
+    "fun_fact": "Red Pontiac potatoes are known for their vibrant red skin, which often fades when exposed to sunlight.",
+    "recipes": [
+      {
+        "name": "Pontiac Garden Hash",
+        "description": "A veggie-packed hash using Red Pontiac potatoes and seasonal vegetables, ideal for brunch."
+      },
+      {
+        "name": "Red Skin Medallions",
+        "description": "Thinly sliced and roasted Red Pontiacs topped with a balsamic glaze."
+      }
+    ]
+  },
+  {
+    "name": "Purple Majesty",
+    "image_url": "images/purple_majesty.webp",
+    "fun_fact": "Purple potatoes get their color from anthocyanins, the same antioxidant found in blueberries.",
+    "recipes": [
+      {
+        "name": "Majestic Purple Wedges",
+        "description": "Roasted wedges with a smoky paprika rub, served with lemon aioli."
+      },
+      {
+        "name": "Purple Potato Salad",
+        "description": "A visually striking salad with tangy mustard dressing and fresh herbs."
+      }
+    ]
+  },
+  {
+    "name": "Kennebec",
+    "image_url": "images/kennebec.webp",
+    "fun_fact": "Kennebec potatoes are a favorite among chip manufacturers due to their uniform shape and low sugar content.",
+    "recipes": [
+      {
+        "name": "Kennebec Chips",
+        "description": "Crispy homemade chips seasoned with Himalayan salt and malt vinegar."
+      },
+      {
+        "name": "Twice-Baked Kennebecs",
+        "description": "Potatoes baked, scooped, and refilled with a cheesy chive mash."
+      }
+    ]
+  },
+  {
+    "name": "Fingerling",
+    "image_url": "images/fingerling.jpg",
+    "fun_fact": "Fingerling potatoes naturally grow small and narrow — they aren't just baby potatoes.",
+    "recipes": [
+      {
+        "name": "Garlic Fingerlings",
+        "description": "Roasted whole fingerlings in garlic butter and rosemary."
+      },
+      {
+        "name": "Mini Fingerling Skewers",
+        "description": "Grilled on skewers with bell peppers and onions for a colorful side."
+      }
+    ]
+  },
+  {
+    "name": "German Butterball",
+    "image_url": "images/german_butterball.jpg",
+    "fun_fact": "German Butterball potatoes are heirloom varieties with rich, buttery flesh — they store well in winter.",
+    "recipes": [
+      {
+        "name": "Butterball Stew",
+        "description": "A winter stew with tender chunks of German Butterballs and root vegetables."
+      },
+      {
+        "name": "Roasted Butterball Discs",
+        "description": "Thinly sliced and oven-roasted for crispy, buttery rounds."
+      }
+    ]
+  },
+  {
+    "name": "Adirondack Blue",
+    "image_url": "images/adirondack blue.jpg",
+    "fun_fact": "Adirondack Blue potatoes were bred by Cornell University and keep much of their color even when cooked.",
+    "recipes": [
+      {
+        "name": "Blue Mashed Delight",
+        "description": "Vibrant blue mashed potatoes whipped with cream and nutmeg."
+      },
+      {
+        "name": "Adirondack Smash",
+        "description": "Lightly smashed and roasted for a crunchy blue exterior."
+      }
+    ]
+  },
+  {
+    "name": "La Ratte",
+    "image_url": "images/la_ratte.jpg",
+    "fun_fact": "La Ratte potatoes are a French gourmet variety once prized by Louis XIV.",
+    "recipes": [
+      {
+        "name": "French Herb Roasters",
+        "description": "La Ratte roasted with herbes de Provence and a drizzle of lemon oil."
+      },
+      {
+        "name": "La Ratte Purée",
+        "description": "Ultra-smooth French-style mash often paired with fine meats."
+      }
+    ]
+  },
+  {
+    "name": "All Blue",
+    "image_url": "images/all_blue.jpg",
+    "fun_fact": "Despite its name, the All Blue potato has both blue skin and blue flesh.",
+    "recipes": [
+      {
+        "name": "Blue Gratin",
+        "description": "A creamy layered dish that lets the color of the All Blue potato shine through."
+      },
+      {
+        "name": "All Blue Croquettes",
+        "description": "Deep-fried croquettes with a crunchy outside and blue mashed center."
+      }
+    ]
+  },
+  {
+    "name": "Norland",
+    "image_url": "images/norland.webp",
+    "fun_fact": "Norland potatoes are early-harvest reds that are particularly cold-tolerant.",
+    "recipes": [
+      {
+        "name": "Norland Veggie Roast",
+        "description": "Diced and roasted with carrots, parsnips, and herbs."
+      },
+      {
+        "name": "Red Breakfast Hash",
+        "description": "Breakfast hash featuring Norland potatoes, peppers, and onions."
+      }
+    ]
+  },
+  {
+    "name": "Caribe",
+    "image_url": "images/Caribe.jpg",
+    "fun_fact": "Caribe potatoes have purple skin and white flesh, often grown in Canada and the northern U.S.",
+    "recipes": [
+      {
+        "name": "Caribe Grill Toss",
+        "description": "Cubed and grilled with a lemon-pepper glaze."
+      },
+      {
+        "name": "Caribe Skillet Crust",
+        "description": "Layered on the bottom of a cast-iron pan for a crispy potato base."
+      }
+    ]
+  },
+  {
+    "name": "Maris Piper",
+    "image_url": "images/Maris Piper.jpg",
+    "fun_fact": "Maris Piper is the most widely grown potato in the UK, known for its versatility.",
+    "recipes": [
+      {
+        "name": "British Bake-Away",
+        "description": "Baked potatoes topped with baked beans and cheddar cheese."
+      },
+      {
+        "name": "Piper Puffs",
+        "description": "Fluffy potato puffs, deep-fried for a light, crunchy snack."
+      }
+    ]
+  },
+  {
+    "name": "Desiree",
+    "image_url": "images/Desiree.jpg",
+    "fun_fact": "Desiree potatoes originated in the Netherlands and are known for their pink skin and yellow flesh.",
+    "recipes": [
+      {
+        "name": "Desiree Dippers",
+        "description": "Wedges made for dipping, served with spicy mayo and garlic aioli."
+      },
+      {
+        "name": "Creamy Desiree Mash",
+        "description": "Velvety mashed potatoes with roasted garlic and parsley."
+      }
+    ]
+  },
+  {
+    "name": "Red Gold",
+    "image_url": "images/red gold.avif",
+    "fun_fact": "Red Gold potatoes have a striking red skin with golden flesh, often used in premium seed mixes.",
+    "recipes": [
+      {
+        "name": "Red Gold Rounds",
+        "description": "Pan-fried circles with a chili-lime seasoning."
+      },
+      {
+        "name": "Golden Glow Soup",
+        "description": "Creamy soup using Red Golds as the base, blended with leeks and dill."
+      }
+    ]
+  },
+  {
+    "name": "Bintje",
+    "image_url": "images/Bintje.webp",
+    "fun_fact": "Bintje potatoes were named after a schoolgirl in the Netherlands — and have been popular since 1910.",
+    "recipes": [
+      {
+        "name": "Dutch Farmer’s Pie",
+        "description": "A layered dish with spiced ground meat, vegetables, and mashed Bintjes."
+      },
+      {
+        "name": "Crispy Bintje Coins",
+        "description": "Thin slices roasted until crisp with sea salt and rosemary."
+      }
+    ]
+  },
+  {
+    "name": "Rose Finn Apple",
+    "image_url": "images/Rose Finn Apple.jpg",
+    "fun_fact": "Despite its name, this potato is not related to apples — the name comes from its rosy skin and slightly sweet flavor.",
+    "recipes": [
+      {
+        "name": "Rose Roast Tangle",
+        "description": "Whole roasted with olive oil and crushed black pepper."
+      },
+      {
+        "name": "Finn Apple Fritters",
+        "description": "Savory fritters made from grated potato and onions, pan-fried to golden."
+      }
+    ]
+  },
+  {
+    "name": "Ozette",
+    "image_url": "images/Ozette.jpg",
+    "fun_fact": "Ozette is an ancient potato cultivated by the Makah tribe for centuries before commercial farming.",
+    "recipes": [
+      {
+        "name": "Tribal Earth Mash",
+        "description": "A rustic mashed potato with smoky paprika and wild garlic."
+      },
+      {
+        "name": "Ozette Fire Bake",
+        "description": "Whole roasted in foil over an open fire, eaten skin and all."
+      }
+    ]
+  },
+  {
+    "name": "Carola",
+    "image_url": "images/carola.webp",
+    "fun_fact": "Carola potatoes are known for their creamy texture and originate from Germany, often favored by gardeners for their high yield.",
+    "recipes": [
+      {
+        "name": "Carola Cream Smash",
+        "description": "A smooth mashed potato dish using Carola’s natural butteriness with a touch of sour cream."
+      },
+      {
+        "name": "Golden Carola Bake",
+        "description": "Oven-baked with herbs and Gruyère cheese, forming a rich gratin crust."
+      }
+    ]
+  },
+  {
+    "name": "French Marquette",
+    "image_url": "images/frenchmarquette.webp",
+    "fun_fact": "The French Marquette is a lesser-known gourmet potato appreciated in French cuisine for its smooth texture and delicate skin.",
+    "recipes": [
+      {
+        "name": "Marquette Lyonnaise",
+        "description": "Thin slices sautéed in butter and onions in a French country style."
+      },
+      {
+        "name": "Marquette Dijon Mix",
+        "description": "Pan-roasted cubes tossed in Dijon mustard and fresh tarragon."
+      }
+    ]
+  },
+  {
+    "name": "German Blue",
+    "image_url": "images/germanblue.jpg",
+    "fun_fact": "German Blue potatoes have a striking blue-purple hue and contain natural antioxidants that help protect the tuber from pests.",
+    "recipes": [
+      {
+        "name": "Blue Rösti Stack",
+        "description": "Crisped shredded German Blue potatoes layered with chives and sour cream."
+      },
+      {
+        "name": "Mystic Blue Soup",
+        "description": "A blended soup with a purple-blue tint, flavored with leeks and vegetable stock."
+      }
+    ]
+  },
+  {
+    "name": "German Butterball",
+    "image_url": "images/german_butterball.jpg",
+    "fun_fact": "This heirloom variety stores well through winter and gets even creamier with time.",
+    "recipes": [
+      {
+        "name": "Golden Butterball Wedges",
+        "description": "Oven-roasted with smoked salt and rosemary sprigs."
+      },
+      {
+        "name": "Rustic Butterball Medley",
+        "description": "A rustic skillet dish combining German Butterballs, mushrooms, and kale."
+      }
+    ]
+  },
+  {
+    "name": "Purple Peruvian",
+    "image_url": "images/purpleperuvian.jpg",
+    "fun_fact": "Native to the Andes, Purple Peruvian potatoes are one of the oldest domesticated potatoes in the world.",
+    "recipes": [
+      {
+        "name": "Andean Purple Bites",
+        "description": "Mini roasted bites with cumin and garlic, showcasing their earthy flavor."
+      },
+      {
+        "name": "Peruvian Potato Platter",
+        "description": "Served cold with a lime and cilantro dressing for a South American-style salad."
+      }
+    ]
+  },
+  {
+    "name": "Red Gold",
+    "image_url": "images/red gold.avif",
+    "fun_fact": "Red Gold potatoes are popular among small farmers for their disease resistance and pretty two-tone flesh.",
+    "recipes": [
+      {
+        "name": "Gold Brick Fries",
+        "description": "Thick steak-cut fries with a crispy red skin and golden interior."
+      },
+      {
+        "name": "Sunset Gold Mash",
+        "description": "Mashed Red Golds blended with roasted garlic and a hint of turmeric."
+      }
+    ]
+  },
+  {
+  "name": "Red La Soda",
+  "image_url": "images/redlasoda.jpg",
+  "fun_fact": "Red La Soda potatoes were developed in Florida and are well-known for their deep red skin and excellent heat tolerance.",
+  "recipes": [
     {
-        "name": "Russet Burbank",
-        "type": "Starchy",
-        "origin": "Netherlands",
-        "description": "Russet Burbank is a starchy potato from Netherlands. Popular in cooking for its unique texture and flavor.",
-        "uses": [
-            "roasting",
-            "baking",
-            "boiling"
-        ],
-        "recipe_url": "https://www.bbcgoodfood.com/search?q=Russet+Burbank",
-        "image_url": "images/russet_burbank.webp"
+      "name": "La Soda Summer Salad",
+      "description": "A refreshing salad made with boiled Red La Sodas, green onions, and a lemon-dill vinaigrette."
     },
     {
-        "name": "Yukon Gold",
-        "type": "Waxy",
-        "origin": "Canada",
-        "description": "Yukon Gold is a waxy potato from Canada. Popular in cooking for its unique texture and flavor.",
-        "uses": [
-            "roasting",
-            "mashing"
-        ],
-        "recipe_url": "https://idahopotato.com/recipes?search=Yukon+Gold",
-        "image_url": "images/yukon gold.jpg"
-    },
-    {
-        "name": "Fingerling",
-        "type": "Waxy",
-        "origin": "Peru",
-        "description": "Fingerling potatoes are small, waxy, and have a buttery flavor. They are great for roasting or boiling.",
-        "uses": [
-            "roasting",
-            "boiling"
-        ],
-        "recipe_url": "https://www.bonappetit.com/recipes/slideshow/fingerling-potatoes",
-        "image_url": "images/fingerling.jpg"
-  },
-  {
-        "name": "Red Pontiac",
-        "type": "Waxy",
-        "origin": "USA",
-        "description": "Red Pontiac potatoes have red skin and white flesh. They hold shape well and are good for salads and boiling.",
-        "uses": [
-            "boiling",
-            "salads"
-        ],
-        "recipe_url": "https://www.potatogoodness.com/varieties/red-pontiac/",
-        "image_url": "images/red pontiac.jpg"
-  },
-  {
-        "name": "Kennebec",
-        "type": "All-purpose",
-        "origin": "USA",
-        "description": "Kennebec potatoes are versatile with white flesh and smooth skin, great for frying and baking.",
-        "uses": [
-            "frying",
-            "baking"
-        ],
-        "recipe_url": "https://www.potatogoodness.com/varieties/kennebec/",
-        "image_url": "images/kennebec.webp"
-  },
-  {
-        "name": "German Blue",
-        "type": "Waxy",
-        "origin": "Germany",
-        "description": "German Blue potatoes have blue skin and flesh, with a slightly nutty flavor. Good for salads and roasting.",
-        "uses": [
-            "salads",
-            "roasting"
-        ],
-        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/german-blue",
-        "image_url": "images/germanblue.jpg"
-  },
-  {
-        "name": "French Marquette",
-        "type": "Waxy",
-        "origin": "France",
-        "description": "French Marquette potatoes have red skin and yellow flesh, known for their creamy texture.",
-        "uses": [
-            "mashing",
-            "roasting"
-        ],
-        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/french-marquette",
-        "image_url": "images/frenchmarquette.webp"
-  },
-  {
-        "name": "Red La Soda",
-        "type": "Waxy",
-        "origin": "USA",
-        "description": "Red La Soda potatoes have red skin with white flesh, commonly used for boiling and salads.",
-        "uses": [
-            "boiling",
-            "salads"
-        ],
-        "recipe_url": "https://www.potatogoodness.com/varieties/red-la-soda/",
-        "image_url": "images/redlasoda.jpg"
-  },
-  {
-        "name": "Carola",
-        "type": "All-purpose",
-        "origin": "Germany",
-        "description": "Carola potatoes have yellow flesh and are versatile in cooking, good for boiling and baking.",
-        "uses": [
-            "boiling",
-            "baking"
-        ],
-        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/carola",
-        "image_url": "images/carola.webp"
-  },
-  {
-        "name": "Purple Peruvian",
-        "type": "Waxy",
-        "origin": "Peru",
-        "description": "Purple Peruvian potatoes have purple skin and flesh, known for their vibrant color and firm texture.",
-        "uses": [
-            "roasting",
-            "boiling"
-        ],
-        "recipe_url": "https://www.rareseeds.com/store/vegetables/potatoes/purple-peruvian",
-        "image_url": "images/purpleperuvian.jpg"
-  }
+      "name": "Crispy La Soda Smashers",
+      "description": "Boiled then smashed and roasted Red La Sodas with sea salt and thyme, offering a crunchy outside and creamy center."
+    }
+  ]
+ }
 ]

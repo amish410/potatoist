@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Project Title</title>
-   	   <link rel="stylesheet" href="style.css" type="text/css"/>
+   	    <link rel="stylesheet" href="style.css" type="text/css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="icon" href="" type="image/x-icon" />
         <script type="text/javascript" src="script.js"></script>
     </head>
@@ -14,7 +15,12 @@
         <div style="display: grid; align-items: center;">
             <h1 style="text-align: center; margin-bottom: 0px;">Welcome to Potatoist!</h1>
             <p style="text-align: center;">This website has all the information on potatoes you'll ever need incluidng fun facts, recipies, and more!</p>
-            <h3 style="text-align: center; margin-top: 75px;">Try it out! Click on the image below to find a random type of potato</h3>
+            <h3 style="text-align: center; margin-top: 50px;">Try it out! Click on the image below to find a random type of potato.</h3>
+            <div style="text-align: center; margin-top: -20px;">
+                <h3 style="text-align: center;">Or search for a specific potato</h3>
+                <i class="fas fa-search" style="color: rgb(233, 203, 137); font-size: 22px;"></i>
+                <input type="text" placeholder="Search here..." class="rounded-image search">
+            </div>
             <br>
         </div>
 
@@ -24,11 +30,11 @@
         <h2 id="potatoName" style="display: flex; justify-content: center;"></h2>
 
         <div style="display: grid; grid-template-columns: auto auto; gap: 15px; align-items: center; padding: 20px;">
-            <button class="button">Learn More</button>
+            <button class="button"  onclick="funfacts()">Learn More</button>
             <button class="button">Find some recipies</button>
             
+            <p style="margin-inline: auto;" id="potatoFact">Learn some fun facts regarding these potatoes!</p>
             <p style="margin-inline: auto;">Some common recipies are mashed potatoes and more!</p>
-            <p style="margin-inline: auto;">This is the most common potato, it can be found anywhere in the world!</p>
         </div>    
     </body>
     <footer style="display: grid; justify-content: center;">
