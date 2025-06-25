@@ -2,23 +2,24 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Project Title</title>
    	    <link rel="stylesheet" href="style.css" type="text/css"/>
+        <link href="https://fonts.google.com/specimen/Raleway" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link rel="icon" href="" type="image/x-icon" />
         <script type="text/javascript" src="script.js"></script>
     </head>
 
 
-    <body>
+    <body style="background-color: rgb(243, 208, 155);">
         <div style="display: grid; align-items: center;">
-            <h1 style="text-align: center; margin-bottom: 0px;">Welcome to Potatoist!</h1>
+            <h1 style="text-align: center; margin-bottom: 0px; font-family: 'Raleway'">The Potatoist</h1>
             <p style="text-align: center;">This website has all the information on potatoes you'll ever need incluidng fun facts, recipies, and more!</p>
             <h3 style="text-align: center; margin-top: 50px;">Try it out! Click on the image below to find a random type of potato.</h3>
             <div style="text-align: center; margin-top: -20px;">
                 <h3 style="text-align: center;">Or search for a specific potato</h3>
-                <i class="fas fa-search" style="color: rgb(233, 203, 137); font-size: 22px;"></i>
+                <i class="fas fa-search" style="color: rgb(197, 164, 119); font-size: 22px; "></i>
                 <input type="text" placeholder="Search here..." class="rounded-image search">
             </div>
             <br>
@@ -29,15 +30,19 @@
         </div>
         <h2 id="potatoName" style="display: flex; justify-content: center;"></h2>
 
-        <div style="display: grid; grid-template-columns: auto auto; gap: 15px; align-items: center; padding: 20px;">
-            <button class="button"  onclick="funfacts()">Learn More</button>
-            <button class="button">Find some recipies</button>
-            
-            <p style="margin-inline: auto;" id="potatoFact">Learn some fun facts regarding these potatoes!</p>
-            <p style="margin-inline: auto;">Some common recipies are mashed potatoes and more!</p>
-        </div>    
+        <div style="display: grid; grid-template-columns: auto auto; align-items: center; padding: 20px;">
+            <button class="button" onclick="funfacts()">Learn More</button>
+            <button class="button" onclick="recipies()">Find some recipies</button>
+        </div>
+        <div style="display: flex; justify-content: center; gap: 420px; height: 60px; margin-top: 10px;">
+            <p id="potatoFact" style="width: 500px; overflow: auto; text-align: center; margin: 0; padding-left: 3px;" class="text-box">Learn some fun facts regarding these potatoes!</p>
+            <p id="potatoRecipie" style="width: 500px; overflow: auto; text-align: center; margin: 0; padding-left: 3px;" class="text-box">Some common recipies are mashed potatoes and more!</p>
+        </div>
+
+        <div style="display: grid; justify-content: center; padding-top: 200px;">
+            <p>Made by: amish 🗿</p>
+        </div>
+
     </body>
-    <footer style="display: grid; justify-content: center;">
-        <p>Made by: amish 🗿</p>
-    </footer>
+
 </html>

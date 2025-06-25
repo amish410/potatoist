@@ -3,12 +3,12 @@
     width: 200px;
     padding: 15px 25px;
     margin-inline: auto;
-    border: 5px solid rgb(233, 203, 137);
+    border: 5px solid rgb(223, 189, 118);
     border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    background-color: #ffdeac;
+    background-color: rgba(255, 230, 194, 0.425);
     font-family: 'monospace';
     font-size: 17px;
 }
@@ -23,9 +23,9 @@
     height: auto; 
     margin: 0px;
     border-radius: 20px;
-    border: 10px solid rgb(233, 203, 137);
+    border: 10px solid rgb(223, 189, 118);
     display: block;
-    background-color: #ffdeac;
+    background-color: rgba(255, 230, 194, 0.425);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -37,7 +37,7 @@
 }
 
 .search {
-    border: 3px solid rgb(233, 203, 137);
+    border: 3px solid rgb(223, 189, 118);
     border-radius: 20px;
     height: 20px;
     width: 300px;
@@ -45,10 +45,23 @@
     font-size: 17px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-indent: 7px;
+    background-color: rgba(255, 230, 194, 0.425);
 
 }
 
 .search::placeholder {
     color: gray;
     font-style: bold;
+}
+
+.text-box {
+    width: 500px; 
+    height: 200px; 
+    margin: 0px;
+    border-radius: 20px;
+    border: 10px solid rgb(223, 189, 118);
+    display: block;
+    background-color: rgba(255, 230, 194, 0.425);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }

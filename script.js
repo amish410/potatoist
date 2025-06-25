@@ -16,5 +16,13 @@ function randompotato() {
 
 function funfacts() {
     let potatoFact = randomimg.fun_fact;
-    document.getElementById("potatoFact").textContent = `${potatoFact}`;
+    document.getElementById("potatoFact").innerHTML = `<br>${potatoFact}`;
+}
+
+function recipies() {
+    let output = "<br>";
+    randomimg.recipes.forEach(recipe => {
+        output += `<strong>${recipe.name}</strong><br>${recipe.description}<br><br>`;
+    });
+    document.getElementById("potatoRecipie").innerHTML = output.trim();
 }
