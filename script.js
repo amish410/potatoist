@@ -16,7 +16,7 @@ function randompotato() {
 
 function funfacts() {
     let potatoFact = randomimg.fun_fact;
-    document.getElementById("potatoFact").innerHTML = `<br>${potatoFact}`;
+    document.getElementById("potatoFact").innerHTML = `<br>${potatoFact}<br><br>Find more intresting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
 }
 
 function recipies() {
