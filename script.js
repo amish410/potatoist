@@ -16,10 +16,12 @@ function randompotato() {
 
 function funfacts() {
     let potatoFact = randomimg.fun_fact;
-    document.getElementById("potatoFact").innerHTML = `<br>${potatoFact}<br><br>Find more intresting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+    console.log(randomimg.fun_fact);
+    document.getElementById("potatoFact").innerHTML = `<br>${potatoFact}<br><br>Find more interesting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+    
 }
 
-function recipies() {
+function recipes() {
     let output = "<br>";
     randomimg.recipes.forEach(recipe => {
         output += `<strong>${recipe.name}</strong><br>${recipe.description}<br><br>`;
@@ -62,24 +64,32 @@ async function searchpotato() {
                 const valid =  await validImage(image);
                 if (valid) {
                     document.getElementById("mainPotato").src = image;
+                    document.getElementById("potatoFact").innerHTML = `<br>There are no fun facts available for this potato :( <br><br> You can some other intresting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+                    document.getElementById("potatoRecipie").innerHTML = `<br>There are no recipes available for this potato :(`;
                     break;
                 }
                 else {
                     document.getElementById("mainPotato").src = "images/noimages.png";
+                    document.getElementById("potatoFact").innerHTML = `<br>There are no fun facts available for this potato :( <br><br> You can some other intresting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+                    document.getElementById("potatoRecipie").innerHTML = `<br>There are no recipes available for this potato :(`;
                     break;
                 }
                 } else {
                     console.log(data.products)
                     document.getElementById("potatoName").textContent = `No potato found :(`;
                     document.getElementById("mainPotato").src = "images/noimages.png";
+                    document.getElementById("potatoFact").innerHTML = `<br>There are no fun facts available for this potato :( <br><br> You can some other intresting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+                    document.getElementById("potatoRecipie").innerHTML = `<br>There are no recipes available for this potato :(`;
                     break;
         }
     }
 }
 
-/* document.getElementById("searchpotato").addEventListener("keydown", function(e) {
-  if (e.key === "Enter") {
-    e.preventDefault(); // prevent form submission if it's inside a form
-    searchquery();
-  }
-}); */
+document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("searchpotato").addEventListener("keydown", function(e) {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      searchpotato();
+    }
+  });
+});
