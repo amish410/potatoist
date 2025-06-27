@@ -3,5 +3,4 @@ The Potatoist is a fun, educational, and interactive website that serves as a mi
 
 ## 🌐 Live Demo
 
-[Click here to try it out!](#)  
-_(https://amish410.github.io/potatoist/)_
+Try it out here: https://amish410.github.io/potatoist/
