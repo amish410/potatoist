@@ -26,3 +26,60 @@ function recipies() {
     });
     document.getElementById("potatoRecipie").innerHTML = output.trim();
 }
+
+function validImage(url) {
+    return new Promise((resolve) => {
+        const img = new Image()
+        img.onload = () => resolve(true);
+        img.onerror = () => resolve(false);
+        img.src = url;
+        console.log("Image Valid?", resolve);
+    });
+}
+
+async function searchpotato() {
+    let query = document.getElementById("searchpotato").value;
+
+    let response = await fetch(`https://api.spoonacular.com/food/products/search?query=${query}&apiKey=36f3c03a739e442fa27ea40bdfcc4150`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    });
+
+    if (response.status == 402) {
+        document.getElementById("potatoName").textContent = `API limit reached. Try again tomorrow :(`;
+        document.getElementById("mainPotato").src = "images/noimages.png";
+        return;
+    }
+
+    let data = await response.json();
+    const searchWord = "potato";
+    for (i in data.products) {
+            if (data.products && data.products.length > 0 && data.products[i].title.toLowerCase().includes("potato")) {
+                document.getElementById("potatoName").textContent = `This is the ${data.products[i].title}!`;
+                const image = data.products[i].image; 
+                const valid =  await validImage(image);
+                if (valid) {
+                    document.getElementById("mainPotato").src = image;
+                    break;
+                }
+                else {
+                    document.getElementById("mainPotato").src = "images/noimages.png";
+                    break;
+                }
+                } else {
+                    console.log(data.products)
+                    document.getElementById("potatoName").textContent = `No potato found :(`;
+                    document.getElementById("mainPotato").src = "images/noimages.png";
+                    break;
+        }
+    }
+}
+
+/* document.getElementById("searchpotato").addEventListener("keydown", function(e) {
+  if (e.key === "Enter") {
+    e.preventDefault(); // prevent form submission if it's inside a form
+    searchquery();
+  }
+}); */
