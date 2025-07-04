@@ -40,7 +40,24 @@ function validImage(url) {
 }
 
 async function searchpotato() {
-    let query = document.getElementById("searchpotato").value;
+    let query = document.getElementById("searchpotato").value.trim().toLowerCase();
+
+    let local = potatoData.find(potato =>
+        potato.name.toLowerCase().includes(query)
+    )
+
+    if (local) {
+        document.getElementById("mainPotato").src = local.image_url;
+        document.getElementById("potatoName").textContent = `This is the ${local.name} potato!`;
+        document.getElementById("potatoFact").innerHTML = `<br>${local.fun_fact}<br><br>Find more interesting fun facts about potatoes <a href="https://potatogoodness.com/potato-fun-facts-history/" target="_blank">here</a>!`;
+        let output = "<br>";
+        local.recipes.forEach(recipe => {
+            output += `<strong>${recipe.name}</strong><br>${recipe.description}<br><br>`;
+        });
+        document.getElementById("potatoRecipie").innerHTML = output.trim();
+        return;
+    }
+
 
     let response = await fetch(`https://api.spoonacular.com/food/products/search?query=${query}&apiKey=36f3c03a739e442fa27ea40bdfcc4150`, {
         method: 'GET',
