@@ -13,6 +13,7 @@
     font-weight: bold;
     font-size: 17px;
     color: #55371e;
+    display: block;
 }
 
 .button:hover {
